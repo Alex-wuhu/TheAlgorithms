@@ -1,3 +1,3 @@
 # data-struct
-data struct and algorithm by C for studying.
+data structure and algorithm by C for studying.
 
