@@ -1,1 +1,1 @@
-data struct and algorithm by C and C++ for studying purpose.
+data struct and algorithm by C and C++ 
